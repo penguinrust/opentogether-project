@@ -190,7 +190,7 @@ opentogether-project/
     └── images/
         ├── favicon.ico    # Site icon
         ├── logo.png       # Brand logo
-        ├── background.png # Hero background
+        ├── background.png # Header background
         └── blobs/         # Decorative SVG elements
             ├── blob.svg
             ├── blob2.svg
