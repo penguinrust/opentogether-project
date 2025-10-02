@@ -637,7 +637,7 @@ body {
     .navbar-toggle {
         float: right;
         margin-right: 0;
-        margin-left: 15px;
+        margin-left: -55px;
         margin-top: 8px;
         border: none;
         background: transparent;
