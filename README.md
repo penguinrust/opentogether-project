@@ -1,5 +1,3 @@
-I will create a README for your "Open Together" Diversity and Uniqueness project based on the structure and tone of the example README you provided and including your project website link.# Open Together
-
 📌 Quick Links
 Live Site: Open Together
 
