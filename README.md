@@ -2,7 +2,7 @@
 
 ## 📌 Quick Links
 
--   Live Site: [Open Together](https://codeinstitute.penguincode.tech/)
+-   [Live Site](https://codeinstitute.penguincode.tech/)
 -   [Features](#-features)
 -   [Testing](#-testing)
 -   [Deployment](#-deployment)
